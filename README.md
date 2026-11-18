@@ -30,7 +30,7 @@ Tkinter is included with the standard Python installer on Windows and macOS. On 
 Clone the repository and enter the project directory:
 
 ```bash
-git clone https://github.com/<YOUR-GITHUB-USERNAME>/python-sudoku-master.git
+git clone https://github.com/Kratos14-N/python-sudoku-master.git
 cd python-sudoku-master
 ```
 
